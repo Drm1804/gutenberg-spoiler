@@ -26,9 +26,6 @@ Check out all beauty and power of the plugin by watching this video:
 [![See video](http://img.youtube.com/vi/IrC1yVttMho/0.jpg)](http://www.youtube.com/watch?v=IrC1yVttMho "See video")  
 
 
-Download in official repository WordPress: [see link](https://wordpress.org/plugins/otfm-gutenberg-spoiler/)  
-
-
 ## Installation  
 
 1. Upload the `otfm-gutenberg-spoiler` folder to your `/wp-content/plugins/` directory or alternatively upload the otfm-gutenberg-spoiler.zip file via the plugin page of WordPress by clicking 'Add New' and selecting the zip from your computer.  

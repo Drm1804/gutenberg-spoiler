@@ -74,7 +74,7 @@ function ogs_script() {
 add_action( 'init', 'ogs_colors' );
 function ogs_colors() {
 	$colors			 = [
-		array( 'color' => '#f5f5f5', 'name' => '1' ),
+		array( 'color' => 'transperent', 'name' => '1' ),
 		array( 'color' => '#e5e5e5', 'name' => '2' ),
 		array( 'color' => '#ffeead', 'name' => '3' ),
 		array( 'color' => '#e8d98a', 'name' => '4' ),
